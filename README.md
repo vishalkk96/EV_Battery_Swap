@@ -1,5 +1,5 @@
 # EV_Battery_Swap
-Note: For the python code, reach out to me at https://www.linkedin.com/in/vishalkannan/
+Note: For the python code, reach out to me at https://www.linkedin.com/in/vishalkannan/  
 Recommending the optimal daily service capacity for EV battery swap facilities across various cities in the US
 
 ## Introduction:
