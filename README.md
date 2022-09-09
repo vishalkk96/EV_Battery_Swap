@@ -49,3 +49,13 @@ Variable Declaration
 ![](Math_Formulation.png)
 
 ![](Constraints_Desc.png)
+
+## Stage 2 Mathematical Model
+
+Variable Declaration
+
+![](Variables_Decl2.png)
+
+![](Math_Formulation2.png)
+
+![](Constraints_Desc2.png)
