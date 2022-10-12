@@ -38,7 +38,7 @@ Simulation based on the number of EVs owned in each city
 
 ## Stagewise Optimization
 
-In stage 1 for a given profit percentage and under a given budget, EV battery swap facility capacities are calculated. This answers the question of which cities to setup the facilities in and what the capacity should be. The goal is to maximise the number of customers served. However, each facility needs time to ramp up and attract customers. To accomplish this, a discount on the charging cost is offered in year 1 and the capacity is gradually increased each month. The increase ensures that the budget is not crossed and the maximum number of customers get served.
+In stage 1 for a given profit percentage and under a given budget, EV battery swap facility capacities are calculated. This answers the question of which cities to setup the facilities in and what the capacity should be. The goal is to maximise the number of customers served. 
 
 ## Stage 1 Mathematical Model
 
@@ -49,6 +49,8 @@ Variable Declaration
 ![](Math_Formulation.png)
 
 ![](Constraints_Desc.png)
+
+Each facility needs time to ramp up and attract customers. To accomplish this, a discount on the charging cost is offered in year 1 and the capacity is gradually increased each month. The increase ensures that the budget is not crossed and the maximum number of customers get served.
 
 ## Stage 2 Mathematical Model
 
