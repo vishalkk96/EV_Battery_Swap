@@ -30,7 +30,7 @@ Referred to online sources for estimation
 
 ## Demand estimates
 
-Simulation based on the number of EVs owned in each city
+Fast charger per mn people in each city derived out of the EV adoption across US cities report (2020). Average daily lower demand is estimated assuming the EV owners will use the facility once in a month. Average daily upper demand is estimated assuming the EV owners will use the facility twice in a month. The daily lower demand and daily upper demand can vary each month (eg. lower during the winters). To account for this, monthly daily lower demand and monthly daily upper demand for each city are determined by random simulation assuming a normal distribution.
 
 ![](Lower_Demand.png)
 
